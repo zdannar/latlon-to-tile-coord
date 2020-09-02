@@ -8,5 +8,11 @@ reverse engineer Paul Mach's [Orb](https://github.com/paulmach/orb) library
 conversion to determine the valid tile coordinates.  I was unable to find a
 crate that produced this conversion properly.
 
+### Update:
+
+Using a different search term in crates.io, I have now found a crate that
+provides this functionality.
+[slippy_map_tilenames](https://crates.io/crates/slippy_map_tilenames).
+
 ### TODO: 
 _Make this into a simple crate_
